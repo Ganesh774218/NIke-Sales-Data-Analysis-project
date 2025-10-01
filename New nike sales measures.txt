@@ -1,0 +1,11 @@
+
+**Nike Sales Dashboard (Excel + SQL + Power BI)**
+
+Over the past few weeks, I worked on a comprehensive **Nike Sales Analytics Project**, transforming raw data into actionable business insights.
+
+🔹 **Excel (Advanced):** Cleaned and prepared the raw dataset, applying advanced functions for data validation and structuring.
+🔹 **SQL:** Wrote queries to analyze monthly trends, regional performance, product profitability, and customer purchase patterns.
+🔹 **Power BI:** Designed an interactive dashboard with storytelling visuals, KPI cards, and professional aesthetics to highlight key insights (revenue, profit, product performance, and regional sales).
+🔹 **Workflow:** Cleaned and transformed the dataset in Excel → imported into MySQL for querying → connected to Power BI for visualization.
+
+This project showcases my ability to integrate **data cleaning, database querying, and business intelligence tools** to deliver clear, impactful insights. I’m excited to continue sharpening my skills and connect with professionals in the **data analytics and BI space**.
